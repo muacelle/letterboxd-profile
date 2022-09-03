@@ -51,24 +51,11 @@ async function tryThisInstead(name) {
     return result;
 }
 
-let photoList = [];
-
 async function getDirectorName(movieid) {
     let response = await fetch(`https://imdb-api.com/en/API/FullCast/${process.env.KEY}/${movieid}`);
     let data = await response.json();
     let director = data.directors.items[0].name;
-    let directorID = data.directors.items[0].id;
-    let pic = await getDirectorPhoto(directorID);
-    photoList.push(pic);
     return director;
-}
-
-async function getDirectorPhoto(id) {
-    let response = await fetch(`https://imdb-api.com/en/API/Name/${process.env.KEY}/${id}`);
-    let data = await response.json();
-    let name = data.name;
-    let pic = data.image;
-    return {name, pic};
 }
 
 (async () => {
