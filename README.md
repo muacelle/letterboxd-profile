@@ -1,5 +1,3 @@
-## > WIP <
-
 # Your Letterboxd Profile
 O programa recebe como input um arquivo CSV com todos os filmes assistidos e avaliados pelo usuário no Letterboxd, e retorna:
  1) Ranking dos seus Diretores preferidos (com as notas mais altas);
@@ -72,7 +70,7 @@ Eu te digo o porquê: REMAKES! THEY'RE EVERYWHERE!
 
 --- 
 
-## 3. [WIP] Gerando os Rankings
+## 3. >WIP< Gerando os Rankings
 
 <h1> O que eu aprendi </h1>
 
