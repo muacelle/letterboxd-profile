@@ -53,7 +53,7 @@ Usei o csv-parse para ler o arquivo ratings.csv e, em seguida, me utilizei das f
 
 ---
 
-## IMDB API
+## 3. IMDB API
 Eu utilizei a API do IMDB para coletar os nomes dos diretores. Construí duas funções assíncronas para buscar os filmes pelo título (getMovieID) e pegar o nome do diretor de cada um (getDirectorName), e lidei com os erros que surgiram no caminho após identificar a causa deles (tryThisInstead). 
 
 - **Error Handling**: 
