@@ -70,10 +70,8 @@ Eu te digo o porquê: REMAKES! THEY'RE EVERYWHERE!
 
 --- 
 
-## 3. >WIP< Gerando os Rankings
+## Gerando os Rankings
 
-<h1> O que eu aprendi </h1>
+## O que eu aprendi
 
-<h1> Próximos passos </h1>
-
-<h1> Links e Referências </h1>
+## Links e Referências
