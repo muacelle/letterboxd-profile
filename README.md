@@ -72,14 +72,10 @@ Eu te digo o porquê: REMAKES! THEY'RE EVERYWHERE!
 
 --- 
 
-## 3. Gerando os Rankings
-wip
+## 3. [WIP] Gerando os Rankings
 
 <h1> O que eu aprendi </h1>
 
 <h1> Próximos passos </h1>
 
 <h1> Links e Referências </h1>
-
-## Subtítulo
-texto
